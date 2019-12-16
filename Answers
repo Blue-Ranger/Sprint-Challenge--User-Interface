@@ -1,0 +1,19 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+A: each term has a meaning to the brower such as <p> for paragraph or <header> top of the page or <footer> bottom of the page.
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+A: display block will wrap content on multiple lines and display inline will fit content on 1 line.
+
+3. What are the 4 areas of the box model?
+
+A: border, margin, padding, content.
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+A:
+y-axis
+
+5. Explain why git is valuable to a team of developers.
+
+A: git allows a team of developers to work on different parts of a project or the same parts all at the same time. 
